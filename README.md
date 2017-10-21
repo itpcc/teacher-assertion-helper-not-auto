@@ -1,4 +1,4 @@
-# teacher-assertion-helper-not-auto
+# Teacher Assertion Helper (not auto)
 ## Disclaimer
 
 This script will not automatically check the answer or send any request to the system.
